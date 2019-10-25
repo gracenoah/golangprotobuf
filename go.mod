@@ -1,3 +1,3 @@
-module github.com/golang/protobuf
+module github.com/gracenoah/golangprotobuf
 
 go 1.12

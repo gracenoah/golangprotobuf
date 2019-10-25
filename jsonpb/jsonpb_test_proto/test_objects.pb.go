@@ -5,12 +5,12 @@ package jsonpb
 
 import (
 	fmt "fmt"
-	proto "github.com/golang/protobuf/proto"
-	any "github.com/golang/protobuf/ptypes/any"
-	duration "github.com/golang/protobuf/ptypes/duration"
-	_struct "github.com/golang/protobuf/ptypes/struct"
-	timestamp "github.com/golang/protobuf/ptypes/timestamp"
-	wrappers "github.com/golang/protobuf/ptypes/wrappers"
+	proto "github.com/gracenoah/golangprotobuf/proto"
+	any "github.com/gracenoah/golangprotobuf/ptypes/any"
+	duration "github.com/gracenoah/golangprotobuf/ptypes/duration"
+	_struct "github.com/gracenoah/golangprotobuf/ptypes/struct"
+	timestamp "github.com/gracenoah/golangprotobuf/ptypes/timestamp"
+	wrappers "github.com/gracenoah/golangprotobuf/ptypes/wrappers"
 	math "math"
 )
 
